@@ -1,2 +1,2 @@
 salut
-ceci est un fichier markdown
+ceci est un fichier markdown de qualité
